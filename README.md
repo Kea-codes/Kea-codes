@@ -15,5 +15,7 @@ Java • Python • C++ • AWS • Algorithms • Data Structures • System De
 
 📬 REACH ME:
 LinkedIn: linkedin.com/in/keamogetse-maremela
+
 GitHub: github.com/KMaremela
+
 📍 Johannesburg | Open to Remote
