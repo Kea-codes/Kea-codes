@@ -1,16 +1,19 @@
-## Hi there 👋
+Keamogetse Maremela
+AI Honors Student | Backend & Algorithm Engineer
 
-<!--
-**Kea-codes/Kea-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 WHO I AM:
+Computer Science Honors student specializing in AI. I build high-performance, scalable systems at the intersection of data, algorithms, and security.
 
-Here are some ideas to get you started:
+CURRENTLY BUILDING:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+AI-powered backend systems
+
+High-efficiency algorithms for real-world problems
+
+🛠️ MY TOOLS:
+Java • Python • C++ • AWS • Algorithms • Data Structures • System Design
+
+📬 REACH ME:
+LinkedIn: linkedin.com/in/keamogetse-maremela
+GitHub: github.com/KMaremela
+📍 Johannesburg | Open to Remote
