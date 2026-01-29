@@ -1,6 +1,6 @@
 My name is Keamogetse Maremela
 
-Computer Sci Honors AI specialization Student @ UJ | Software Engineer /Data Scientist
+I am a Computer Sci Honors AI specialization Student @ UJ | Software Engineer /Data Scientist
 
 🔍 WHO I AM:
 
@@ -10,7 +10,6 @@ I build high-performance, scalable systems at the intersection of data, algorith
 CURRENTLY BUILDING:
 
 AI-powered backend systems
-
 High-efficiency algorithms for real-world problems
 
 🛠️ MY TOOLS:
