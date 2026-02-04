@@ -1,23 +1,39 @@
-My name is Keamogetse Maremela
+**Welcome to My GitHub Portfolio 👋**
 
-I am a Computer Sci Honors AI specialization Student @ UJ | Software Engineer /Data Scientist
+**About Me**
 
-🔍 WHO I AM:
+I'm a Computer Science Honors student specializing in AI at the University of Johannesburg, currently interning as a Data Scientist in the Financial Governance & Revenue Division of University of Johannesbug. I bridge theoretical knowledge with practical application through algorithm design, data analysis, and full-stack development. Passionate about solving complex problems with efficient, scalable solutions.
 
-Computer Science Honors student specializing in AI. 
-I build high-performance, scalable systems at the intersection of data, algorithms, and security.
+**🎓 Education & Certifications**
 
-CURRENTLY BUILDING:
++ BSc Honors in Computer Science (AI Specialization) | University of Johannesburg (2026)
 
-AI-powered backend systems
-High-efficiency algorithms for real-world problems
++ BSc Mathematical Science in Mathematics & Computer Science | University of Johannesburg (2021-2025)
 
-🛠️ MY TOOLS:
-Java • Python • C++ • AWS • Algorithms • Data Structures • System Design
++ AWS Solutions Architecture Job Simulation | AWS (2024)
 
-📬 REACH ME:
-LinkedIn: linkedin.com/in/keamogetse-maremela
++ JP Morgan Chase Software Engineering Virtual Experience | Forage (2024)
 
-GitHub: github.com/KMaremela
+**💼 Professional Experience**
 
-📍 Johannesburg | Open to Remote
+**Data Science Intern | University of Johannesburg** - Financial Governance & Revenue Division (2026-Present)
+
+I Collect, clean, and analyze datasets to support data-driven decision-making. Then Automate analysis and reporting using Java, Python, SQL, and Advanced Excel and  I Perform exploratory data analysis to identify trends and insights. lastly I Collaborate with cross-functional teams on analytical tasks.
+
+**Technical Skills**
+
+*Programming Languages:* Java, Python, C++, R, Assembly
+
+*Technologies:* JavaFX, Git/GitHub, SQL, Advanced Excel, AWS, JUnit
+
+*Mathematical Foundation:* Calculus, Linear Algebra, Real Analysis, Discrete Mathematics, Statistical Analysis
+
+*Core Competencies:* Data Structures & Algorithms, OOP, Back-end Development, System Design, Machine Learning Concepts
+
+**Let's Connect**
+
+Email: Keamogetsemaremela29@gmail.com
+
+LinkedIn: inkedin.com/in/keamogetse-maremela 
+
+
