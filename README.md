@@ -22,7 +22,7 @@ I Collect, clean, and analyze datasets to support data-driven decision-making. T
 
 **Technical Skills**
 
-*Programming Languages:* Java, Python, C++, R, Assembly
+*Programming Languages:* Java, Python, C++, C, R, Assembly
 
 *Technologies:* JavaFX, Git/GitHub, SQL, Advanced Excel, AWS, JUnit
 
