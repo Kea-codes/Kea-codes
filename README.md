@@ -1,39 +1,119 @@
-**Welcome to My GitHub Portfolio 👋**
+<h1 align="center">Keamogetse Maremela</h1>
 
-**About Me**
+<p align="center">
+  Computer Science Honours (AI) student and Data Science Intern, Johannesburg, South Africa
+</p>
 
-I'm a Computer Science Honors student specializing in AI at the University of Johannesburg, currently interning as a Data Scientist in the Financial Governance & Revenue Division of University of Johannesbug. I bridge theoretical knowledge with practical application through algorithm design, data analysis, and full-stack development. Passionate about solving complex problems with efficient, scalable solutions.
+<p align="center">
+  <a href="https://linkedin.com/in/keamogetse-maremela"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:Keamogetsemaremela29@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-**🎓 Education & Certifications**
+---
 
-+ BSc Honors in Computer Science (AI Specialization) | University of Johannesburg (2026)
+## About me
 
-+ BSc Mathematical Science in Mathematics & Computer Science | University of Johannesburg (2021-2025)
+I am an Honours student at the University of Johannesburg specialising in Artificial Intelligence, and a Data Science Intern in the university's Financial Governance & Revenue Division. I like building things from first principles, whether that is a neural network in pure NumPy or a ransomware detector inside the Linux kernel.
 
-+ AWS Solutions Architecture Job Simulation | AWS (2024)
+My work sits between machine learning and systems programming: models that hold up under attack, pipelines that scale, and low-level code that stays correct under pressure.
 
-+ JP Morgan Chase Software Engineering Virtual Experience | Forage (2024)
+**Winner, Motus Xponential x UJ Hackathon 2026.** We built a vehicle acquisition conversion prediction model using a calibrated LightGBM, CatBoost and HistGradientBoosting ensemble with temporal validation.
 
-**💼 Professional Experience**
+---
 
-**Data Science Intern | University of Johannesburg** - Financial Governance & Revenue Division (2026-Present)
+## Featured projects
 
-I Collect, clean, and analyze datasets to support data-driven decision-making. Then Automate analysis and reporting using Java, Python, SQL, and Advanced Excel and  I Perform exploratory data analysis to identify trends and insights. lastly I Collaborate with cross-functional teams on analytical tasks.
+### Adversarial ML for Credit Card Fraud Detection
+Python, NumPy, Streamlit
 
-**Technical Skills**
+A complete adversarial machine learning pipeline written from scratch in pure NumPy, with no ML libraries.
 
-*Programming Languages:* Java, Python, C++, C, R, Assembly
+- Hand-written Random Forest and feedforward neural network (manual backpropagation, Adam)
+- FGSM, PGD, black-box and feature-manipulation attacks
+- Madry-style adversarial training and noise regularisation defences
+- Full-dataset baselines of 0.7926 F1 (Random Forest) and 0.8293 F1 (neural network)
+- Staged pipeline with a live dashboard for comparing attacks and defences
 
-*Technologies:* JavaFX, Git/GitHub, SQL, Advanced Excel, AWS, JUnit
+### Wildlife Re-Identification at Scale
+Python, PyTorch, MegaDescriptor, FAISS
 
-*Mathematical Foundation:* Calculus, Linear Algebra, Real Analysis, Discrete Mathematics, Statistical Analysis
+Big Data Analytics group project that identifies individual animals across camera images on WildlifeReID-10k.
 
-*Core Competencies:* Data Structures & Algorithms, OOP, Back-end Development, System Design, Machine Learning Concepts
+- Tested data pipeline for the dataset
+- Lightweight projection head trained on a frozen MegaDescriptor encoder
+- FAISS similarity retrieval for matching individuals
 
-**Let's Connect**
+### RansomGuard: Kernel-Level Ransomware Detection
+C, Linux Kernel Module, Netlink
 
-Email: Keamogetsemaremela29@gmail.com
+A Linux kernel module that detects and contains ransomware before encryption spreads.
 
-LinkedIn: inkedin.com/in/keamogetse-maremela 
+- Syscall-level hooks, per-process behavioural counters, SIGSTOP containment and Netlink alerts
+- State exposed through `/proc` and a character device, with a web dashboard for loading and unloading the module
+- Fixed a system freeze caused by kprobe infinite recursion by moving to syscall hooks with pre-allocated per-CPU event slots
 
+---
 
+## Tech stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white)
+
+**Machine learning and data**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-02A4D3?style=flat-square)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logoColor=black)
+![Optuna](https://img.shields.io/badge/Optuna-2C6CB0?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+**Systems and tools**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
+
+---
+
+## What I have been learning this year
+
+- Adversarial machine learning and model robustness
+- Gradient boosting, calibration and temporal validation for competition-grade modelling
+- Generative modelling, including score-based diffusion
+- Linux kernel module development and syscall hooking
+- Parallel programming with MPI
+- Similarity search and retrieval at scale
+
+---
+
+## Experience and education
+
+| Role | Where | When |
+| --- | --- | --- |
+| Data Science Intern | University of Johannesburg, Financial Governance & Revenue Division | 2026 to present |
+| BSc Honours, Computer Science (AI) | University of Johannesburg | 2026 |
+| BSc Mathematical Science, Mathematics and Computer Science | University of Johannesburg | 2021 to 2025 |
+| Private Mathematics Tutor | Johannesburg | 2022 to 2025 |
+
+---
+
+## Certifications
+
+- JPMorgan Chase & Co. Software Engineering Job Simulation, 2024
+- AWS Solutions Architecture Job Simulation, 2024
+- DREAMSHIP South Africa Dreamathon, 2024
+
+---
+
+## Get in touch
+
+I am open to internships, graduate roles and collaboration in data science, machine learning and systems programming. The quickest way to reach me is by email or LinkedIn, linked at the top of this page.
